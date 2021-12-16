@@ -34,8 +34,6 @@ news_title = driver.find_element_by_css_selector('div.article_info > h3 > a')
 #뉴스 기사 날짜
 news_day = driver.find_element_by_css_selector('div.sponsor > span.t11')
 
-print(news_title.text, news_day.text)
-
 # 뉴스 기사 댓글
 news_comment = driver.find_elements_by_css_selector('span.u_cbox_contents')
 
@@ -43,10 +41,9 @@ comment_list = []
 
 for i in news_comment:
     comment_list.append(i.text)
-    print(i.text)
 
 news_3 = {
-    "id" : news_id[2],
+    "_id" : news_id[2],
     "title" : news_title.text,
     "day" : news_day.text,
     "comment" : comment_list
@@ -55,3 +52,6 @@ news_3 = {
 new3 = json.dumps(news_3, ensure_ascii=False)
 
 print(new3)
+
+
+driver.quit()

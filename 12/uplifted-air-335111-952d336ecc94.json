@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "uplifted-air-335111",
+  "private_key_id": "952d336ecc942df90cca178e9babc96a09e01486",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDvyL7WhuRpLvcL\nPYYoqwbD+kMYqf23tUzJmIz/jProWHF7a8EszKy5BoZ2yFvi+nqBA1c3bWKIcge6\nWGNrJOZM9uHDBEvWfnrZE9LyppUG+zx6OkZBTIMfTyEcWC+VqibQGu1Y6q8r0VIV\nraaHsegM95KYHho+WQffR8sOqcvXxSP8Orh3IB1q00KBBJ/96BwBNoGLT6dxyBTr\nK1NqtizCLwvGyVhsfQUiLCYxG9jDqskqB7YkkHJdPESsLLjD8LyPZODdvjwECtCl\nyrbayfuYl33INxanm9rl/8dBkHtzNkK50gdYB4BlnPktQnoGNogAGDa5AZN2B2V1\n5mPI2FglAgMBAAECggEABNpg2xSCVsr7oYeGfwK3zEDKWbCxFlDYo8OPEP9bDFej\n6QNSjClSp/EE84OqcRgwNrW+WWcWRYbcogMhdKebyKbThWqsF+8vOymuoo4dZIrd\nBmfxCD0inJWG/keeTkQSF91U/Jsis1CVKHlUrkOQcS4T57kY6guhFZNiqE0791s3\npTCXXvMV5niYrYwALj+Sq6yQH6TneuIPWXXsRGpypZ+kDZ+PFzauVs+2+II7HcDC\nz47KUmvxHGsucIJF6ZKpnEY0PtlailuAwp3DhoiflSEO2sbALx+xgjxCORquTMcD\nabwEED3/4HC0hmRqxgniHca+gf8S55WjKG44qi0r6QKBgQD4wyzNcKKJ5o6YzMMP\n92qHm4wHtDipCFbNWFbj7TYX/i/GryXeD+2NxofZKdZV529YeoVMnwDSZYZaXTcC\nWvb9NXPwyzPud2BREJmZFUCxd5ScCcIB3BMIdN0xusAa7UAWyc3L+2zAkG8zV/xd\nSdc6VceZKjwYtD/8MFLXYKdmHQKBgQD2wrLwPp0xbdD+iFyzHp1wxd01wE9wUtqI\nbx7LIfGur7Vpre7Ff78s9R2Yj7NWP3l+bHREEhyKpt35bBw3I7CUqXo0wSevP2zL\nsuCTRJ1rb/ANHuvpy8yi6b3MF40eWRe7sRRnDxH4DlLR1CCGglAfdX3eHlD9gDLd\nuARnUn57qQKBgQCqziCKIyeHdkY9BoN9CA4edKAufgFVlsM7Fcf7klnNGZwmWQaw\nNdGPwlxusPpZW6KpZt72IEsJK+qXS1/E/z6N19D26h+LQm5g2vwMD3qvIANrLIwI\niNqMuOlUBv12v6Z8vy3OPKGMit+/qk8+or/kbxewxD4lXEZ+25NWDSiDxQKBgQDi\ntQBXLv+WsREJONkKC7+UI4VX4+ZYCRcTsBu3fukfl/jxLcaoFvTaZhyZ1LRsMgb6\nOsQa4hTs4eAgTs4hbp3GB2rqWueN35SiFSa0xp5mXcJLG7Sc6QuKRXuFrcGON0ZR\nv6BCCxt0LhyzANQdIE5iiLxqPKomLQkOoQkSsDzaeQKBgQC5Bd4OuqCGrI+Dsrwc\nbY169RqtMbpYIvTBP2pbkncU030RPpKq1iPuoW1xLbnVhG5gS5BuzfBr/w+JhpTS\nGOnVKyrfQ117GwvKem3dVM9Ghcp+a5nL6XGeZhBO8eyKEMcCogqEJB0OKg32oZWc\nu5qteDsLybWjV+gvQcRGscJ4Eg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "sentiment-analysis@uplifted-air-335111.iam.gserviceaccount.com",
+  "client_id": "112412405638639681346",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sentiment-analysis%40uplifted-air-335111.iam.gserviceaccount.com"
+}
